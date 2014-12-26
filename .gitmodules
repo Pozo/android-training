@@ -1,3 +1,12 @@
 [submodule "L1.01/activity-lifecycle/activity-lifecycle"]
 	path = L1.01/activity-lifecycle/activity-lifecycle
 	url = https://github.com/Pozo/activity-lifecycle.git
+[submodule "L1.01/dex-jar"]
+	path = L1.01/dex-jar
+	url = https://github.com/Pozo/dex-jar.git
+[submodule "L1.01/hello-world-libs"]
+	path = L1.01/hello-world-libs
+	url = https://github.com/Pozo/hello-world-libs.git
+[submodule "L1.01/hello-world"]
+	path = L1.01/hello-world
+	url = https://github.com/Pozo/hello-world.git
