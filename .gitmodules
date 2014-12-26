@@ -1,5 +1,5 @@
-[submodule "L1.01/activity-lifecycle/activity-lifecycle"]
-	path = L1.01/activity-lifecycle/activity-lifecycle
+[submodule "L1.01/activity-lifecycle"]
+	path = L1.01/activity-lifecycle
 	url = https://github.com/Pozo/activity-lifecycle.git
 [submodule "L1.01/dex-jar"]
 	path = L1.01/dex-jar
