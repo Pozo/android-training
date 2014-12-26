@@ -7,7 +7,10 @@ import java.util.List;
  */
 public interface Repository<T> {
     public void addEntry(T type);
+
     public int count();
+
     public List getEntries();
+
     public void printEntries();
 }

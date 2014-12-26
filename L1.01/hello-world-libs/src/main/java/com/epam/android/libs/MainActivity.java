@@ -9,6 +9,7 @@ import com.epam.android.InMemoryRepository;
 public class MainActivity extends ListActivity {
     private final InMemoryRepository<String> repository = new InMemoryRepository<String>();
     private ArrayAdapter<String> adapter;
+
     /**
      * Called when the activity is first created.
      */
@@ -20,6 +21,7 @@ public class MainActivity extends ListActivity {
         this.adapter = new ArrayAdapter<String>(this, android.R.layout.simple_list_item_1, new String[]{});
         setListAdapter(adapter);
     }
+
     public void addItems(View v) {
         adapter.notifyDataSetChanged();
     }
