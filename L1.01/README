@@ -1,0 +1,19 @@
+L1.01	Core concept / Activities / Intents
+-------------------------------------------
+System architecture
+dex <-> class
+Eclipse + ADT + tools / Android Studio
+Android SDK
+Emulators
+Project structure
+Build process
+
+Application structure
+Manifest
+Resources/Drawables/Localization/References(R)
+Layouts
+
+Activity/Activity lifecycle
+Overriding onSaveInstanceState(Bundle)
+Passing data between activities
+Interactions between other applications via Intent

@@ -1,0 +1,10 @@
+L1.03	Broadcasts / Services / Storages
+-------------------------------------------
+Service and Lifecycle
+broadcast reciever
+local broadcast reciever
+
+Content Providers (just overview)
+SQLite
+Shared Preferences
+Files
